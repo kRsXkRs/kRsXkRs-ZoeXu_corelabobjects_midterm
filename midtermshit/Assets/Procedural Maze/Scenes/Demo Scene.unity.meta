@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e20259611cc5ca342bb5088b9e514ae7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311472
+  packageName: Procedural Grid Generator
+  packageVersion: 1.0
+  assetPath: Assets/Procedural Maze/Scenes/Demo Scene.unity
+  uploadId: 735408

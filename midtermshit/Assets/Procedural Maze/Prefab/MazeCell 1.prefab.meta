@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 966c29ba7130e6648bb22f5158380b5b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311472
+  packageName: Procedural Grid Generator
+  packageVersion: 1.0
+  assetPath: Assets/Procedural Maze/Prefab/MazeCell 1.prefab
+  uploadId: 735408

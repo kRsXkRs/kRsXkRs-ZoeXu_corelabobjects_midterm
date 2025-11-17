@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0effc89e1d134bf4994c37608c9f96fb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311472
+  packageName: Procedural Grid Generator
+  packageVersion: 1.0
+  assetPath: Assets/Procedural Maze/Scripts/MazeController.cs
+  uploadId: 735408
